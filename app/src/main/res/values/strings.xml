@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WelcomeApp</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="continue_button">Continue</string>
+    <string name="reset">Reset</string>
+
+    <string-array name="font_options">
+        <item>Default</item>
+        <item>Cursive</item>
+        <item>Monospace</item>
+        <item>Sans</item>
+    </string-array>
+
+    <string name="welcome_text">Welcome!</string>
+
+    <string name="second_screen_message">Hello %1$s, welcome to the app!</string>
+
+</resources>
